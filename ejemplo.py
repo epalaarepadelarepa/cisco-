@@ -1,0 +1,7 @@
+print("hola")
+print("hola mundo como vamos")
+print("este es mi primer programa")
+print(4)
+print("4+6")
+print(4+7)
+print(6.4+7.6)
